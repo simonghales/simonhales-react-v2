@@ -1,0 +1,74 @@
+
+@import '../../styles/mixins';
+@import '../../styles/common';
+
+.root {
+  margin: 280px 0;
+}
+
+.content {
+  @extend .clearfix;
+
+  max-width: 1106px;
+  margin: 0 auto;
+}
+
+.image {
+  float: left;
+  width: 1106px - 510px;
+  text-align: center;
+}
+
+.info {
+  overflow: hidden;
+  padding-bottom: 2px;
+}
+
+.title {
+  font-size: 34px;
+  font-weight: 400;
+  margin-bottom: 12px;
+}
+
+.position {
+  color: #556165;
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.desc {
+  color: #A1AEB6;
+  font-size: 22px;
+  line-height: 36px;
+  margin-top: 10px;
+
+  strong {
+    font-weight: 500;
+  }
+
+}
+
+.links {
+  margin-top: 15px;
+}
+
+.link {
+  @include transition(transform 200ms ease);
+  border: 1px solid #DCE4E8;
+  color: #424242;
+  display: inline-block;
+  font-size: 16px;
+  margin-right: 8px;
+  padding: 8px 12px;
+  text-transform: uppercase;
+
+  &:hover {
+    background-color: #DCE4E8;
+  }
+
+  &:active {
+    transform: translateY(2px);
+  }
+
+}

@@ -1,0 +1,59 @@
+
+@import '../../styles/variables/colors';
+@import '../../styles/mixins';
+
+.root {
+  display: flex;
+  justify-content: center;
+  margin: 280px 0;
+  text-align: center;
+}
+
+.authorTitle {
+  font-size: 26px;
+  font-weight: 400;
+}
+
+.contactLinks {
+  color: #424242;
+  font-size: 17px;
+  font-weight: 400;
+  margin-top: 24px;
+
+  a {
+    display: inline-block;
+    margin: 0 6px;
+
+    &:hover {
+      color: #ea1556;
+    }
+
+  }
+
+  .social {
+    margin: 0 8px;
+  }
+
+  .email {
+  }
+
+}
+
+.mainTitle {
+  font-size: 60px;
+  font-weight: 500;
+  margin: 10px 0 12px 0;
+  text-transform: uppercase;
+}
+
+.subTitle {
+  color: #A1AEB6;
+  font-size: 26px;
+  font-weight: 300;
+  font-style: italic;
+
+  strong {
+    font-weight: 500;
+  }
+
+}
