@@ -20,7 +20,7 @@
   color: #424242;
   font-size: 34px;
   font-weight: 400;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
   text-align: center;
   text-transform: uppercase;
 }
@@ -32,7 +32,7 @@
 
   > li {
     @extend .clearfix;
-    margin-top: 12px;
+    margin-top: 20px;
 
     &:first-of-type {
       margin-top: 0;
@@ -47,6 +47,7 @@
   float: left;
   min-width: 210px;
   padding-right: 20px;
+  line-height: 26px;
 }
 
 .info {
@@ -56,6 +57,7 @@
 .infoTitle,
 .infoSubtitle {
   font-size: 22px;
+  line-height: 26px;
 }
 
 .infoTitle {
@@ -66,4 +68,5 @@
 .infoSubtitle {
   color: #556165;
   font-weight: 500;
+  margin-top: 7px;
 }

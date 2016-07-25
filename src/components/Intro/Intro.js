@@ -1,6 +1,7 @@
 import React from 'react'
 import { IndexLink, Link } from 'react-router'
 import classes from './Intro.scss'
+var    FontAwesome = require('react-fontawesome');
 
 export const Intro = () => (
   <section className={classes.root}>
@@ -10,13 +11,13 @@ export const Intro = () => (
       <h2 className={classes.subTitle}>specialised in <strong>AngularJS</strong> and <strong>ReactJS</strong></h2>
       <h4 className={classes.contactLinks}>
         <a className={classes.social} href="" target="_blank">
-          {/*<FontAwesome name='twitter' />*/}
+          <FontAwesome name='twitter' />
         </a>
         <a className={classes.social} href="" target="_blank">
-          {/*<FontAwesome name='linkedin' />*/}
+          <FontAwesome name='linkedin' />
         </a>
         <a className={classes.social} href="" target="_blank">
-          {/*<FontAwesome name='github' />*/}
+          <FontAwesome name='github' />
         </a>
         <a className={classes.email} href="mailto:simonghales@gmail.com">simonghales@gmail.com</a>
       </h4>
