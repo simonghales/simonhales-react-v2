@@ -1,0 +1,44 @@
+{
+  "lists": [
+    {
+      "title": "Work Experience",
+      "items": [
+        {
+          "when": "2015 - Present",
+          "title": "Hydric Media",
+          "subtitle": "Front End Developer"
+        },
+        {
+          "when": "2013 - 2014",
+          "title": "Happen",
+          "subtitle": "Lead Designer & Front End Developer"
+        },
+        {
+          "when": "2013 - 2015",
+          "title": "University of Queensland",
+          "subtitle": "Head Web Design Tutor"
+        }
+      ]
+    },
+    {
+      "title": "Education & Awards",
+      "items": [
+        {
+          "when": "2011 - 2014",
+          "title": "University of Queensland",
+          "subtitle": "Bachelor of Multimedia Design"
+        },
+        {
+          "when": "2013",
+          "title": "UQ ITEE Outstanding Tutor Award",
+          "subtitle": "DECO1400 (Introduction to Web Design)"
+        },
+        {
+          "when": "2013",
+          "title": "UQ ITEE Best User Centered Design Project",
+          "subtitle": "HTML THOR"
+        }
+      ]
+    }
+  ]
+}

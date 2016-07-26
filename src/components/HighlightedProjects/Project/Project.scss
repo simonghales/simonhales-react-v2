@@ -7,10 +7,8 @@
 }
 
 .content {
+  @extend %content-medium-max-width-center;
   @extend .clearfix;
-
-  max-width: 1106px;
-  margin: 0 auto;
 }
 
 .image {
@@ -37,7 +35,7 @@
 .title {
   font-size: 34px;
   font-weight: 400;
-  margin-bottom: 12px;
+  margin-bottom: 17px;
 }
 
 .position {

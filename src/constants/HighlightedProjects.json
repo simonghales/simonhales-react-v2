@@ -1,0 +1,27 @@
+{
+  "title": "Highlighted Projects",
+  "description": "Lorem ipsum dolor sit amet, hey consectetur adipisicing elit. Aliquam aperiam assumenda, blanditiiclasses.",
+  "projects": [
+    {
+      "title": "soon.is",
+      "position": "Front End Developer & Designer",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam illum AngularJS nam pariatur porro quibusdam quos tempore! Ab accusantium magnam non numquam quam rerum sint ut. Atque laudantium porro sed voluptatibuclasses.",
+      "url": "http://soon.is",
+      "image": "imageurlgoeshere"
+    },
+    {
+      "title": "soon.is",
+      "position": "Front End Developer & Designer",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam illum AngularJS nam pariatur porro quibusdam quos tempore! Ab accusantium magnam non numquam quam rerum sint ut. Atque laudantium porro sed voluptatibuclasses.",
+      "url": "http://soon.is",
+      "image": "imageurlgoeshere"
+    },
+    {
+      "title": "soon.is",
+      "position": "Front End Developer & Designer",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam illum AngularJS nam pariatur porro quibusdam quos tempore! Ab accusantium magnam non numquam quam rerum sint ut. Atque laudantium porro sed voluptatibuclasses.",
+      "url": "http://soon.is",
+      "image": "imageurlgoeshere"
+    }
+  ]
+}

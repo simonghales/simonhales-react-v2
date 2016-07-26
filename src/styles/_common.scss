@@ -7,6 +7,11 @@
   margin: 0 auto;
 }
 
+%content-medium-max-width-center {
+  max-width: 1106px;
+  margin: 0 auto;
+}
+
 .clearfix:after{
   display:block;visibility:hidden;clear:both;height:0;content:" ";font-size:0
 }

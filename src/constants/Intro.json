@@ -1,0 +1,23 @@
+{
+  "title": "Simon Hales",
+  "subTitle": "Front End Developer",
+  "slogan": "specialised in AngularJS and ReactJS",
+  "social": [
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/TheSimonHales"
+    },
+    {
+      "type": "linkedin",
+      "url": "http://linkedin.com/in/thesimonhales"
+    },
+    {
+      "type": "github",
+      "url": "https://github.com/simonghales"
+    },
+    {
+      "type": "email",
+      "url": "simonghales@gmail.com"
+    }
+  ]
+}
